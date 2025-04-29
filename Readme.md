@@ -69,7 +69,7 @@ To build **ExamHelper** yourself:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ExamHelper.git
+   git clone https://github.com/AnkitSharmaDev/ExamHelper.git
    ```
 2. **Open the ExamHelper.py file**:
 
@@ -98,7 +98,7 @@ This will generate an ExamHelper.exe file inside the dist/ directory.
 ## **Contributing**
 Fork the repository: Feel free to fork this repository to make your own modifications.
 
-Star this repository: If you find the tool useful, please give it a star ⭐.
+**Star this repository: If you find the tool useful, please give it a star ⭐**.
 
 Create a Pull Request: If you have any improvements or fixes, create a pull request, and we will review it.
 
