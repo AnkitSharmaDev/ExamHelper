@@ -1,6 +1,6 @@
-# OverlayQuery
+# ExamHelper
 
-**OverlayQuery** is a lightweight, cross-platform overlay dialog box designed for seamless question input via typing or drag-and-drop, delivering instant answers. It operates discreetly over any application, making it suitable for productivity, research, or accessibility purposes. The tool is crafted to be unobtrusive and undetectable by most applications, but users are urged to use it responsibly.
+**ExamHelper** is a lightweight, cross-platform overlay dialog box designed for seamless question input via typing or drag-and-drop, delivering instant answers. It operates discreetly over any application, making it suitable for productivity, research, or accessibility purposes. The tool is crafted to be unobtrusive and undetectable by most applications, but users are urged to use it responsibly.
 
 ⚠️ **Warning:** This tool is intended for ethical use only. Using OverlayQuery to cheat (e.g., on platforms like CodeTantra), bypass security, or violate policies is strictly prohibited and may lead to serious consequences, including academic or legal penalties. Use at your own risk.
 
