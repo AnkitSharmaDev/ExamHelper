@@ -46,7 +46,7 @@
 
 ### **Exit:**
 
-- Right-click the system tray icon (if implemented) and select "Exit," or use Task Manager to close.
+-  Use Task Manager to close.
 
 ## **Ethical Use Guidelines**
 
@@ -65,42 +65,10 @@
 
 ## **Building from Source**
 
-To build **ExamHelper** yourself:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/AnkitSharmaDev/ExamHelper.git
-   ```
-2. **Open the ExamHelper.py file**:
-
-Navigate to the directory where you cloned the repo and open ExamHelper.py in your preferred editor.
-
-You can modify the transparency level, appearance, or any other functionality by adjusting the code as needed.
-
-3. **Modify the Application**:
-
-Change the app name or customize any settings according to your preferences in the ExamHelper.py file.
-
-For more transparency or visual changes, you can adjust the settings within the script.
-
-4. **Create the Executable**:
-
-Once you're happy with the changes, use PyInstaller to create an .exe file:
-
-bash
-Copy
-Edit
-pyinstaller --onefile --windowed ExamHelper.py
-This will generate an ExamHelper.exe file inside the dist/ directory.
-
-5. **Enjoy: You now have a customized version of ExamHelper!**
-
-## **Contributing**
-Fork the repository: Feel free to fork this repository to make your own modifications.
 
 **Star this repository: If you find the tool useful, please give it a star ⭐**.
 
-Create a Pull Request: If you have any improvements or fixes, create a pull request, and we will review it.
+
 
 Collaborate: If you want to collaborate on this project, open an issue to discuss new features or improvements.
    
